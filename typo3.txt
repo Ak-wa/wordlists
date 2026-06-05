@@ -1,5 +1,4 @@
 /.git/index
-/aktivitaeten/gesellschafterversammlung/
 /ChangeLog
 /composer.json
 /composer.lock
