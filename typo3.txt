@@ -1,3 +1,4 @@
+/typo3/install.php
 /.git/index
 /ChangeLog
 /composer.json
